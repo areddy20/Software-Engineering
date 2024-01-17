@@ -1,0 +1,2 @@
+Go to maven-project/src/main/java/com/example/javafxdemo/MainApplication.java, and run this to see the demonstration 
+of running the three screens in the stages of Data-entry, Review, and Approval.
