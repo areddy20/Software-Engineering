@@ -1,0 +1,7 @@
+1. Go to maven-project/src/main/java/com/example/javafxdemo/MainApplication.java.
+
+2. Run MainApplication.java to begin the screen demonstration.
+
+3. Make sure to read all java files for data-entry, review, and approval stages to see requirements for inputs. 
+
+4. These controller files are located here: maven-project/src/main/java/com/example/javafxdemo (same path as MainApplication.java).
