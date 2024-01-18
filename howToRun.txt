@@ -6,4 +6,5 @@
 
 4. These controller files are located here: maven-project/src/main/java/com/example/javafxdemo (same path as MainApplication.java).
 
-Here is a demonstration video showing how the application is ran from an IDE, after more edits were done to the code: https://ooo.mmhmm.app/watch/z_PAIwOUPkBO6M0tMdGBiH 
+Here is a demonstration video showing how the application is ran from an IDE, after more edits were done to the code: 
+https://ooo.mmhmm.app/watch/z_PAIwOUPkBO6M0tMdGBiH 
